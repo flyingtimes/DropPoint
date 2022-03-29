@@ -17,13 +17,7 @@
 </p>
 
 
-Make drag-and-drop easier using DropPoint!
 
-DropPoint helps you drag content without having to open side-by-side windows
-
-Works on **Windows**, **Linux** and **MacOS**.
-
-Follows Fluent design style to match Windows 11 aesthetics :)
 
 ## Table of Contents
 - [:sparkles: Demo](#sparkles-demo)
